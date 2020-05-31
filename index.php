@@ -8,5 +8,9 @@
         <body>
             <h1>Hello World!!</h1>
             <p>Aku Sayang Kamu</p>
+            <ul>
+                <li>Wita</li>
+                <li>Putri</li>
+            </ul>
         </body>
         </html>
